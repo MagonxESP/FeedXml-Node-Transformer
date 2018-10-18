@@ -1,0 +1,6 @@
+name: Feed xml Module
+description: Crea la estructura del feed en xml a partir de una vista.
+package: Custom
+type: module
+version: 1.0
+core: 8.x

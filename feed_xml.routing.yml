@@ -1,0 +1,7 @@
+feed_xml:
+  path: '/contenidos'
+  defaults:
+    _controller: '\Drupal\feed_xml\Controller\FeedxmlController::index'
+    _title: 'Feed xml'
+  requirements:
+    _permission: 'access content'
